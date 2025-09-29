@@ -40,47 +40,8 @@ The dataset consists of labeled MRI scans divided into four categories:
 * **Framework:** PyTorch
 * **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Torchvision, Scikit-learn, OpenCV
 
----
 
-## ⚙️ Installation
 
-Clone this repository:
-
-```bash
-git clone https://github.com/your-username/brain-tumor-classification.git
-cd brain-tumor-classification
-```
-
-Create a virtual environment and install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 🧑‍💻 Usage
-
-1. Place the dataset in the `data/` folder.
-2. Run training:
-
-```bash
-python train.py
-```
-
-3. Run testing:
-
-```bash
-python test.py
-```
-
-4. Visualize results (graphs, heatmaps):
-
-```bash
-python visualize.py
-```
-
----
 
 ## 📊 Results
 
@@ -88,12 +49,7 @@ python visualize.py
 * Generated Grad-CAM heatmaps highlighting tumor regions.
 * Example prediction:
 
-| Input MRI                            | Predicted Class | Heatmap                               |
-| ------------------------------------ | --------------- | ------------------------------------- |
-| ![Sample MRI]() | Glioma          | ![Heatmap](<img width="700" height="600" alt="heatmaps" src="https://github.com/user-attachments/assets/0737942a-8fbb-476a-bcfd-2c953992e64e" />
-) |
 
----
 
 ## 🏥 Applications
 
