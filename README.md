@@ -90,7 +90,8 @@ python visualize.py
 
 | Input MRI                            | Predicted Class | Heatmap                               |
 | ------------------------------------ | --------------- | ------------------------------------- |
-| ![Sample MRI]() | Glioma          | ![Heatmap](assets/sample_heatmap.jpg) |
+| ![Sample MRI]() | Glioma          | ![Heatmap](<img width="700" height="600" alt="heatmaps" src="https://github.com/user-attachments/assets/0737942a-8fbb-476a-bcfd-2c953992e64e" />
+) |
 
 ---
 
