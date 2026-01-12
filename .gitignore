@@ -1,0 +1,24 @@
+# Virtual environments
+brain_tumor_env/
+venv/
+Brain_tumor_cnn/Lib/
+Brain_tumor_cnn/Scripts/
+Brain_tumor_cnn/pyvenv.cfg
+
+# Dataset
+dataset/
+
+# VS Code
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files
+*.pt
+*.h5
+*.pkl
