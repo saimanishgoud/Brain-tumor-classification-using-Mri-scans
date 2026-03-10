@@ -30,7 +30,7 @@ The dataset consists of labeled MRI scans divided into four categories:
 * **Training set**
 * **Test set**
 
-> Dataset Source: [Kaggle Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset))
+> Dataset Source: [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset))
 
 ---
 
