@@ -45,9 +45,10 @@ The dataset consists of labeled MRI scans divided into four categories:
 
 ## 📊 Results
 
-* Achieved **92% accuracy** on the test dataset.
+* Achieved **92% test accuracy** across 4 tumor classes on 7,000+ MRI scans
+* Applied data augmentation to handle class imbalance
 * Generated Grad-CAM heatmaps highlighting tumor regions.
-* Example prediction:
+
 
 
 
