@@ -56,5 +56,5 @@ The dataset consists of labeled MRI scans divided into four categories:
 
 * Assisting radiologists in medical diagnosis.
 * Research on automated tumor classification.
-* Can be extended to other
+
 
